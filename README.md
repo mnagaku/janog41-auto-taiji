@@ -35,4 +35,4 @@ Jupyter には「janog41-auto-taiji」フォルダができているので、そ
 
 ## 続き
 
-[始動編](https://www.janog.gr.jp/meeting/janog41/application/files/8115/1496/7531/janog41-autoprep-taiji-01.pdf)にあるコード実行部分をNotebook化したのが、[こちら](janog41-autoprep-taiji-01.ipynb)になります。スライドと対応を見比べながら、コードを実行していくことができます。
+[始動編](https://www.janog.gr.jp/meeting/janog41/application/files/4215/1545/7952/janog41-autoprep-taiji-02.pdf)にあるコード実行部分をNotebook化したのが、[こちら](janog41-autoprep-taiji-02.ipynb)になります。スライドと対応を見比べながら、コードを実行していくことができます。
